@@ -22,4 +22,4 @@ My past experiencies includes:
 
 
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/david-kaestle-silva/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/david-kaestle-silva/)!
