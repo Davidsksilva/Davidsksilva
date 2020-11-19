@@ -6,8 +6,10 @@ I'm currently finishing my computer engineering bachelor degree at [UFPB](www.uf
 
 As for the technologies I'm currently using while programming in Java:
 
-- Vertx and RxJava
+- Reactive Java with Vertx, SmallRye Mutiny
 - Quarkus
+- Testing using REST Assured
+- Microservices architecture
 
 My past experiencies includes:
 
